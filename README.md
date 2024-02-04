@@ -8,9 +8,13 @@ On another terminal, run the Main program
 
 
 ## Author
-Realized by Henrique D.
+Realized by Henrique D.M.M
 
 ## Demo images
-demo0 and 1 : henri connects and publish a msg
-demo2 and 3: bob connects, check msg, repsond to hello world by
+### henri connects and publish a msg
+![Alt text](./demo_images/demo0.png)
+![Alt text](./demo_images/demo1.png)
 
+### bob connects, check msg, repsond to henri's message
+![Alt text](./demo_images/demo2.png)
+![Alt text](./demo_images/demo3.png)
