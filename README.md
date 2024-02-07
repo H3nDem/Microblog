@@ -9,7 +9,7 @@ Everything run on the terminal with custom made commands (enter help to see all 
 ## Usage
 First you have to run the MicroblogCentral program in a terminal, otherwise you will not be able to connect with a user
 On another terminal, run the Main program
-There isn't any authentication system, so when they ask you for a login, just enter the name you want.
+There isn't any authentication system, it will simply ask you for a username, just enter the name you want.
 
 
 ## Author
